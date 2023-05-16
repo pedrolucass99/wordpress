@@ -2,7 +2,7 @@
 /**
  * Define Theme Version
  */
-define( 'STOREZIA_THEME_VERSION', '2.3' );
+define( 'STOREZIA_THEME_VERSION', '2.6' );
 
 function storezia_css() {
 	$parent_style = 'storely-parent-style';

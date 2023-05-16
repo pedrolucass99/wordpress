@@ -5,7 +5,7 @@ Author: Seller Themes
 Author URI: https://sellerthemes.com/
 Description: Storezia is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Storezia is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Storezia pro demo. https://preview.sellerthemes.com/pro/storezia/
 Template: storely
-Version: 2.3
+Version: 2.6
 Tested up to: 6.2
 Requires PHP: 5.6
 License: GPLv3 or later
@@ -274,4 +274,27 @@ ul.wp-block-rss {
 	padding-top: 0.5rem;
  	padding-bottom: 0.5rem;
  	font-size: 0.875rem;
+}
+
+/*wp-block-latest-comments*/
+.wp-block-latest-comments__comment-date {
+	padding-top: 0.500rem;
+	padding-bottom: 0.500rem;		
+}
+
+/*wp-Block-RSS*/
+ul.wp-block-rss {
+	list-style: none;
+	margin-left: 0;
+}
+ul.wp-block-rss li.wp-block-rss__item {
+    margin-bottom: 1rem;
+}
+ul.wp-block-rss li.wp-block-rss__item:last-child {
+    margin-bottom: 0;
+}
+
+.sidebar .widget .wp-block-group .wp-block-pullquote blockquote {
+	margin-top: 0;
+	margin-bottom: 0;
 }

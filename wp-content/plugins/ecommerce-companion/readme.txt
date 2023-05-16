@@ -4,7 +4,7 @@ Tags: homepage, companion, demo, sections, Widget
 Requires at least: 4.0
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 3.6
+Stable tag: 3.7
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -49,6 +49,9 @@ eCommerce Companion WordPress plugin is licensed under the GPL3 (https://www.gnu
 
 
 == Changelog ==
+
+= 3.7 =
+* Description Improvement
 
 = 3.6 =
 * Code Improvement
